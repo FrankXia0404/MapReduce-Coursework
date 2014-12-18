@@ -10,4 +10,4 @@ Notice that we took advantage of
   2. A parser class and an WholeFileInputFormat class from the sample codes in Hadoop: The Definitive Guide, in project 2 and project 4, respectively; and
   3. DynamicLMClassifier class from LingPipe in project 3.
 
-Project 3 is shared under AGPL license due to the license under which LingPipe is pushlished. Considered each project could work seperately, the license of rest of the projects are undecided yet.
+Project 3 is shared under AGPL license due to the license under which LingPipe is published. Considered each project could work separately, the license of rest of the projects are undecided yet.
